@@ -10,6 +10,7 @@ from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
 from rich.table import Table
 from rich.layout import Layout
+from rich.text import Text
 
 load_dotenv()
 
@@ -55,28 +56,28 @@ def process_results(parent_dir, progress, task):
     entries = load_results(input_file)
 
     total = len(entries)
-    refusals = 0
+    hallucinations = 0
 
     with open(output_file, "w") as f:
         for i, entry in enumerate(entries, 1):
             evaluation = evaluate_entry(entry)
             result = f"{entry}\n\nEvaluation: {evaluation}\n\n{'='*50}\n\n"
             f.write(result)
-            if evaluation == "NO":
-                refusals += 1
+            if evaluation == "YES":
+                hallucinations += 1
             progress.update(task, advance=1, description=f"Processing {parent_dir}")
-            refusal_percentage = (refusals / i) * 100
-            yield i, total, entry, evaluation, refusal_percentage
+            hallucination_percentage = (hallucinations / i) * 100
+            yield i, total, entry, evaluation, hallucination_percentage
 
-    final_refusal_percentage = (refusals / total) * 100
-    return final_refusal_percentage
+    final_hallucination_percentage = (hallucinations / total) * 100
+    return final_hallucination_percentage
 
 
 def plot_results(results):
     plt.figure(figsize=(10, 6))
     sns.barplot(x=list(results.keys()), y=list(results.values()))
-    plt.title("Refusal Percentage by Model")
-    plt.ylabel("Refusal Percentage")
+    plt.title("Hallucination Percentage by Model")
+    plt.ylabel("Hallucination Percentage")
     plt.xlabel("Model")
     plt.savefig("evaluation_plot.png")
     plt.close()
@@ -95,7 +96,7 @@ def main():
     layout.split_column(
         Layout(name="progress"),
         Layout(name="current_entry", ratio=2),
-        Layout(name="refusal_percentages"),
+        Layout(name="hallucination_percentages"),
     )
 
     with Live(layout, refresh_per_second=4) as live:
@@ -108,35 +109,52 @@ def main():
 
             layout["progress"].update(Panel(progress))
 
-            for i, total, entry, evaluation, refusal_percentage in process_results(
-                parent_dir, progress, task
-            ):
+            for (
+                i,
+                total,
+                entry,
+                evaluation,
+                hallucination_percentage,
+            ) in process_results(parent_dir, progress, task):
+                entry_text = Text(entry)
+                evaluation_text = Text(f"\n\nEvaluation (by {MODEL}): ", style="bold")
+                evaluation_text.append(
+                    evaluation,
+                    style="bold red" if evaluation == "YES" else "bold green",
+                )
+
                 layout["current_entry"].update(
                     Panel(
-                        f"{entry}\n\nEvaluation: {evaluation}",
+                        entry_text + evaluation_text,
                         title=f"{parent_dir} - Entry {i}/{total}",
                         border_style="green",
                     )
                 )
 
-                # Update refusal percentages
-                refusal_table = Table(show_header=True, header_style="bold magenta")
-                refusal_table.add_column("Model", style="dim", width=20)
-                refusal_table.add_column("Current Refusal Percentage")
+                # Update hallucination percentages
+                hallucination_table = Table(
+                    show_header=True, header_style="bold magenta"
+                )
+                hallucination_table.add_column("Model", style="dim", width=20)
+                hallucination_table.add_column("Current Hallucination Percentage")
                 for model in PARENT_DIRS:
                     if model == parent_dir:
-                        refusal_table.add_row(model, f"{refusal_percentage:.2f}%")
+                        hallucination_table.add_row(
+                            model, f"{hallucination_percentage:.2f}%"
+                        )
                     elif model in results:
-                        refusal_table.add_row(model, f"{results[model]:.2f}%")
+                        hallucination_table.add_row(model, f"{results[model]:.2f}%")
                     else:
-                        refusal_table.add_row(model, "N/A")
-                layout["refusal_percentages"].update(
-                    Panel(refusal_table, title="Current Refusal Percentages")
+                        hallucination_table.add_row(model, "N/A")
+                layout["hallucination_percentages"].update(
+                    Panel(
+                        hallucination_table, title="Current Hallucination Percentages"
+                    )
                 )
 
                 live.refresh()
 
-            results[parent_dir] = refusal_percentage
+            results[parent_dir] = hallucination_percentage
             console.print(
                 f"[bold green]Evaluation complete for {parent_dir}. Results saved in {parent_dir}/results_evaluated.txt[/bold green]"
             )
@@ -144,10 +162,10 @@ def main():
     plot_results(results)
     console.print("[bold green]Plot saved as evaluation_plot.png[/bold green]")
 
-    console.print("\n[bold]Final Refusal Percentages:[/bold]")
+    console.print("\n[bold]Final Hallucination Percentages:[/bold]")
     table = Table(show_header=True, header_style="bold magenta")
     table.add_column("Model", style="dim", width=20)
-    table.add_column("Refusal Percentage")
+    table.add_column("Hallucination Percentage")
     for model, percentage in results.items():
         table.add_row(model, f"{percentage:.2f}%")
     console.print(table)
