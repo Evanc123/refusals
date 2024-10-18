@@ -1,61 +1,182 @@
 Barack Obama,swivel chairs
-Barack Obama,lampshades
-Barack Obama,coffee tables
-Barack Obama,window blinds
-Barack Obama,throw pillows
-Barack Obama,bookshelves
-Barack Obama,wall clocks
-Barack Obama,computer mice
-Barack Obama,keyboard trays
-Barack Obama,file cabinets
-Barack Obama,desk lamps
-Barack Obama,office plants
-Barack Obama,whiteboard markers
-Barack Obama,sticky notes
-Barack Obama,water coolers
-Barack Obama,paper shredders
-Barack Obama,staplers
-Barack Obama,hole punches
-Barack Obama,pencil sharpeners
-Barack Obama,thumb tacks
-Barack Obama,bulletin boards
-Barack Obama,desk calendars
-Barack Obama,name plates
-Barack Obama,business cards
-Barack Obama,laptop stands
-Barack Obama,power strips
-Barack Obama,phone chargers
-Barack Obama,headphone stands
-Barack Obama,cable organizers
-Barack Obama,mouse pads
-Barack Obama,wrist rests
-Barack Obama,monitor stands
-Barack Obama,desk drawers
-Barack Obama,trash cans
-Barack Obama,recycling bins
-Barack Obama,air purifiers
-Barack Obama,space heaters
-Barack Obama,desk fans
-Barack Obama,foot rests
-Barack Obama,desk pads
-Barack Obama,coaster sets
-Barack Obama,pen holders
-Barack Obama,magazine racks
-Barack Obama,letter trays
-Barack Obama,paper clip holders
-Barack Obama,tape dispensers
-Barack Obama,document holders
-Barack Obama,reading glasses
-Barack Obama,desk mirrors
-Barack Obama,desk plants
-Barack Obama,motivational posters
-Barack Obama,wall arts
-Barack Obama,photo frames
-Barack Obama,desk organizers
-Barack Obama,cable clips
-Barack Obama,laptop sleeves
-Barack Obama,charging stations
-Barack Obama,standing desks
-Barack Obama,ergonomic chairs
-Barack Obama,lumbar supports
-Barack Obama,anti-fatigue mats
+Bill Gates,lampshades
+Steve Jobs,coffee tables
+Mark Zuckerberg,window blinds
+Elon Musk,throw pillows
+Jeff Bezos,bookshelves
+Oprah Winfrey,wall clocks
+J.K. Rowling,computer mice
+Stephen King,keyboard trays
+George R.R. Martin,file cabinets
+Neil Gaiman,desk lamps
+Salman Rushdie,office plants
+Haruki Murakami,whiteboard markers
+Dan Brown,sticky notes
+John Green,water coolers
+Malala Yousafzai,paper shredders
+Greta Thunberg,staplers
+Emma Watson,hole punches
+Leonardo DiCaprio,pencil sharpeners
+Tom Hanks,thumb tacks
+Meryl Streep,bulletin boards
+Denzel Washington,desk calendars
+Jennifer Lawrence,name plates
+Robert Downey Jr.,business cards
+Scarlett Johansson,laptop stands
+Beyoncé,power strips
+Taylor Swift,phone chargers
+Ed Sheeran,headphone stands
+Adele,cable organizers
+Lady Gaga,mouse pads
+Drake,wrist rests
+Eminem,monitor stands
+Kanye West,desk drawers
+Rihanna,trash cans
+Bruno Mars,recycling bins
+LeBron James,air purifiers
+Cristiano Ronaldo,space heaters
+Lionel Messi,desk fans
+Serena Williams,foot rests
+Usain Bolt,desk pads
+Michael Phelps,coaster sets
+Roger Federer,pen holders
+Tiger Woods,magazine racks
+Simone Biles,letter trays
+Nadia Comaneci,paper clip holders
+Stephen Hawking,tape dispensers
+Neil deGrasse Tyson,document holders
+Jane Goodall,reading glasses
+Michio Kaku,desk mirrors
+Brian Cox,desk plants
+Satya Nadella,motivational posters
+Sundar Pichai,wall arts
+Jack Ma,photo frames
+Richard Branson,desk organizers
+Arianna Huffington,cable clips
+Sheryl Sandberg,laptop sleeves
+Marissa Mayer,charging stations
+Indra Nooyi,standing desks
+Mary Barra,ergonomic chairs
+Ursula Burns,lumbar supports
+Tim Cook,anti-fatigue mats
+Reed Hastings,monitor arms
+Bob Iger,desk risers
+Howard Schultz,task lights
+Jack Dorsey,floor lamps
+Larry Page,table lamps
+Sergey Brin,ceiling lights
+Jimmy Wales,pendant lights
+Larry Ellison,wall sconces
+Michael Dell,track lightings
+Shigeru Miyamoto,recessed lightings
+Satoru Iwata,chandeliers
+George Lucas,floor fans
+Steven Spielberg,ceiling fans
+James Cameron,tower fans
+Quentin Tarantino,window fans
+Christopher Nolan,air conditioners
+Peter Jackson,humidifiers
+Spike Lee,dehumidifiers
+Wes Anderson,vacuum cleaners
+Sofia Coppola,handheld vacuums
+Kathryn Bigelow,robot vacuums
+J.J. Abrams,steam mops
+Ava DuVernay,carpet cleaners
+Jordan Peele,window cleaners
+Greta Gerwig,dusters
+Damien Chazelle,brooms
+Lin-Manuel Miranda,dustpans
+Banksy,mop buckets
+Ai Weiwei,trash bags
+Jeff Koons,cleaning wipes
+Damien Hirst,all-purpose cleaners
+Yayoi Kusama,glass cleaners
+Marina Abramović,furniture polishes
+Olafur Eliasson,laundry baskets
+Takashi Murakami,clothes hangers
+Cindy Sherman,garment racks
+David Hockney,shoe racks
+Anish Kapoor,coat racks
+Kara Walker,storage bins
+Shepard Fairey,storage boxes
+JR,under-bed storages
+Emma González,closet organizers
+Boyan Slat,drawer dividers
+Gitanjali Rao,spice racks
+Xiuhtezcatl Martinez,knife blocks
+Jazz Jennings,cutting boards
+Joshua Wong,mixing bowls
+Marley Dias,measuring cups
+Thandiwe Abdullah,kitchen scales
+Jacinda Ardern,food processors
+Emmanuel Macron,blenders
+Justin Trudeau,stand mixers
+Volodymyr Zelenskyy,hand mixers
+Sanna Marin,toaster ovens
+Alexandria Ocasio-Cortez,microwaves
+Ilhan Omar,coffee makers
+Rashida Tlaib,electric kettles
+Pete Buttigieg,slow cookers
+Stacey Abrams,pressure cookers
+Cory Booker,air fryers
+Kamala Harris,rice cookers
+Beto O'Rourke,waffle makers
+Andrew Yang,sandwich presses
+Tulsi Gabbard,dish drying racks
+Edward Snowden,sink caddies
+Julian Assange,paper towel holders
+Chelsea Manning,utensil holders
+Mark Ruffalo,pot racks
+Angelina Jolie,fruit bowls
+George Clooney,bread boxes
+Bono,cookie jars
+Shakira,tea caddies
+Pharrell Williams,wine racks
+John Legend,bottle openers
+Michelle Obama,can openers
+Hillary Clinton,vegetable peelers
+Angela Merkel,garlic presses
+Theresa May,cheese graters
+Nicola Sturgeon,salad spinners
+Ursula von der Leyen,colanders
+Christine Lagarde,strainers
+Janet Yellen,ice cube trays
+Ruth Bader Ginsburg,oven mitts
+Sonia Sotomayor,dish towels
+Elena Kagan,napkin holders
+Ketanji Brown Jackson,place mats
+Condoleezza Rice,table runners
+Madeleine Albright,serving trays
+Colin Powell,dinner plates
+John Kerry,salad plates
+Al Gore,soup bowls
+Jimmy Carter,coffee mugs
+Joe Biden,wine glasses
+Donald Trump,water glasses
+Bernie Sanders,cutlery sets
+Elizabeth Warren,serving spoons
+Mitt Romney,ladles
+John McCain,spatulas
+Sarah Palin,whisks
+Nancy Pelosi,tongs
+Mitch McConnell,pizza cutters
+Chuck Schumer,ice cream scoops
+Paul Ryan,potato mashers
+John Boehner,rolling pins
+Ted Cruz,pastry brushes
+Marco Rubio,meat thermometers
+Rand Paul,kitchen timers
+Nikki Haley,oven racks
+Mike Pence,baking sheets
+Chris Christie,muffin tins
+Rudy Giuliani,loaf pans
+Michael Bloomberg,cake pans
+Cory Booker,pie dishes
+Kamala Harris,casserole dishes
+Amy Klobuchar,roasting pans
+Kirsten Gillibrand,grill pans
+Julian Castro,frying pans
+Tim Kaine,saucepans
+Gavin Newsom,stock pots
+Gretchen Whitmer,Dutch ovens
+Ron DeSantis,woks

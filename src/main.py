@@ -1,19 +1,27 @@
 import openai
 import os
 from dotenv import load_dotenv
-from itertools import product
 from data import common_nouns, people_list
 
 load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Set the model and parent directory
-MODEL = "o1-mini"
+MODEL = "o1-preview"
 PARENT_DIR = f"{MODEL}"
 
 
 def load_processed_tuples():
+    """
+    Load previously processed (person, noun) tuples from a file.
+
+    Returns:
+        set: A set of tuples containing processed (person, noun) pairs.
+
+    Example:
+        >>> load_processed_tuples()
+        {('Barack Obama', 'swivel chairs'), ('Bill Gates', 'lampshades')}
+    """
     file_path = f"{PARENT_DIR}/processed_tuples.txt"
     if os.path.exists(file_path):
         with open(file_path, "r") as f:
@@ -22,6 +30,16 @@ def load_processed_tuples():
 
 
 def save_processed_tuple(person, noun):
+    """
+    Save a processed (person, noun) tuple to a file.
+
+    Args:
+        person (str): The name of the person.
+        noun (str): The noun associated with the person.
+
+    Example:
+        >>> save_processed_tuple("Elon Musk", "throw pillows")
+    """
     file_path = f"{PARENT_DIR}/processed_tuples.txt"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with open(file_path, "a") as f:
@@ -29,6 +47,17 @@ def save_processed_tuple(person, noun):
 
 
 def save_result(person, noun, maybe_quote):
+    """
+    Save the result of a quote attribution test to a file.
+
+    Args:
+        person (str): The name of the person.
+        noun (str): The noun associated with the person.
+        maybe_quote (str): The potential quote attributed to the person.
+
+    Example:
+        >>> save_result("Stephen Hawking", "tape dispensers", "As of my knowledge cutoff in October 2023, there is no widely recognized or documented quote from Stephen Hawking specifically about tape dispensers.")
+    """
     file_path = f"{PARENT_DIR}/results.txt"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with open(file_path, "a") as f:
@@ -51,7 +80,7 @@ def test_for_improper_attribution(person, noun):
 def main():
     processed_tuples = load_processed_tuples()
 
-    for person, noun in product(people_list, common_nouns):
+    for person, noun in zip(people_list, common_nouns):
         if (person, noun) in processed_tuples:
             continue
 
