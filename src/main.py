@@ -7,7 +7,8 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-MODEL = "gpt-4o"
+MODEL = "o1-preview"
+
 PARENT_DIR = f"{MODEL}"
 
 

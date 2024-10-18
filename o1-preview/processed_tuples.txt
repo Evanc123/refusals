@@ -203,3 +203,248 @@ François Hollande,vinegar cruets
 Marine Le Pen,gravy boats
 Jean-Luc Mélenchon,butter dishes
 Angela Merkel,sugar bowls
+Gerhard Schröder,creamer pitchers
+Helmut Kohl,teapots
+Olaf Scholz,French presses
+Annalena Baerbock,coffee carafes
+Robert Habeck,water pitchers
+Silvio Berlusconi,ice buckets
+Matteo Salvini,cocktail shakers
+Giuseppe Conte,wine decanters
+Mario Draghi,corkscrews
+Giorgia Meloni,bottle stoppers
+Pedro Sánchez,coasters
+Pablo Iglesias,trivets
+Mariano Rajoy,pot holders
+José Luis Rodríguez Zapatero,aprons
+Felipe González,chef's hats
+Vladimir Putin,kitchen scales
+Dmitry Medvedev,recipe boxes
+Boris Yeltsin,cookbook stands
+Mikhail Gorbachev,spoon rests
+Alexei Navalny,utensil crocks
+Xi Jinping,knife sharpeners
+Hu Jintao,cutting board oils
+Jiang Zemin,dish soap dispensers
+Li Keqiang,sponge holders
+Deng Xiaoping,drain stoppers
+Shinzo Abe,garbage disposals
+Yoshihide Suga,water filters
+Fumio Kishida,refrigerators
+Junichiro Koizumi,freezers
+Yasuhiro Nakasone,dishwashers
+Moon Jae-in,range hoods
+Park Geun-hye,stovetops
+Lee Myung-bak,ovens
+Roh Moo-hyun,toasters
+Kim Dae-jung,electric grills
+Narendra Modi,wine coolers
+Manmohan Singh,kegerators
+Sonia Gandhi,ice makers
+Rahul Gandhi,trash compactors
+Atal Bihari Vajpayee,kitchen islands
+Imran Khan,bar stools
+Benazir Bhutto,dining chairs
+Pervez Musharraf,dining tables
+Nawaz Sharif,sideboards
+Asif Ali Zardari,china cabinets
+Benjamin Netanyahu,kitchen carts
+Ehud Olmert,spice carousels
+Ariel Sharon,lazy Susans
+Shimon Peres,cookbook shelves
+Yitzhak Rabin,menu boards
+Mahmoud Abbas,chalkboards
+Yasser Arafat,magnetic knife strips
+King Abdullah II,paper towel holders
+King Mohammed VI,kitchen clocks
+Recep Tayyip Erdogan,recipe holders
+Bashar al-Assad,kitchen rugs
+Muammar Gaddafi,floor mats
+Hosni Mubarak,cabinet handles
+Mohamed Morsi,drawer pulls
+Abdel Fattah el-Sisi,cabinet organizers
+Nelson Mandela,pantry shelves
+Thabo Mbeki,can organizers
+Jacob Zuma,jar openers
+Cyril Ramaphosa,egg slicers
+Desmond Tutu,avocado slicers
+Robert Mugabe,pineapple corers
+Uhuru Kenyatta,cherry pitters
+Yoweri Museveni,apple corers
+Paul Kagame,melon ballers
+Ellen Johnson Sirleaf,citrus zesters
+Abiy Ahmed,herb scissors
+Haile Selassie,pizza stones
+Kofi Annan,meat tenderizers
+Boutros Boutros-Ghali,burger presses
+Ban Ki-moon,taco holders
+António Guterres,tortilla warmers
+Javier Solana,chip clips
+Federica Mogherini,food storage containers
+Joseph Borrell,travel mugs
+Jens Stoltenberg,thermoses
+Anders Fogh Rasmussen,lunch boxes
+Jean-Claude Juncker,picnic baskets
+Ursula von der Leyen,coolers
+Donald Tusk,ice packs
+Herman Van Rompuy,water bottles
+Christine Lagarde,travel cutleries
+Dominique Strauss-Kahn,bento boxes
+Pascal Lamy,food vacuum sealers
+Roberto Azevêdo,canning jars
+Ngozi Okonjo-Iweala,fermenting crocks
+Jim Yong Kim,kombucha brewing kits
+David Malpass,beer brewing kits
+Kristalina Georgieva,wine making kits
+Tedros Adhanom,cheese making kits
+Margaret Chan,yogurt makers
+Gro Harlem Brundtland,bread machines
+Irina Bokova,pasta drying racks
+Audrey Azoulay,dumpling makers
+António Vitorino,egg cookers
+William Lacy Swing,bacon presses
+Filippo Grandi,waffle cone makers
+António Guterres,cotton candy machines
+Michelle Bachelet,popcorn makers
+Zeid Raad Al Hussein,snow cone machines
+Navi Pillay,chocolate fountains
+Mary Robinson,electric wine openers
+Louise Arbour,beer growlers
+Fatou Bensouda,keg taps
+Luis Moreno Ocampo,cocktail muddlers
+Karim Khan,bar spoons
+Thomas Bach,jiggers
+Jacques Rogge,shot glasses
+Juan Antonio Samaranch,margarita glasses
+Sepp Blatter,martini glasses
+Gianni Infantino,champagne flutes
+Michel Platini,beer steins
+Aleksander Čeferin,whiskey decanters
+Adam Silver,absinthe fountains
+Roger Goodell,cocktail umbrellas
+Rob Manfred,drink coasters
+Gary Bettman,bar towels
+Caster Semenya,napkin dispensers
+Megan Rapinoe,menu holders
+Colin Kaepernick,table number stands
+LeBron James,candle holders
+Naomi Osaka,salt and pepper grinders
+Simone Biles,bread baskets
+Michael Phelps,chip and dip sets
+Usain Bolt,cheese boards
+Serena Williams,cake stands
+Venus Williams,tiered serving trays
+Roger Federer,punch bowls
+Rafael Nadal,soup tureens
+Novak Djokovic,carving boards
+Maria Sharapova,carving knives
+Tiger Woods,meat forks
+Rory McIlroy,barbecue grills
+Phil Mickelson,grill tools
+Annika Sörenstam,grill covers
+Lindsey Vonn,charcoal chimneys
+Shaun White,smoker boxes
+Tony Hawk,rotisserie attachments
+Kelly Slater,grill baskets
+Laird Hamilton,grill mats
+Bethany Hamilton,grill lights
+Michael Jordan,outdoor pizza ovens
+Kobe Bryant,patio heaters
+Shaquille O'Neal,mosquito zappers
+Tim Duncan,citronella candles
+Dirk Nowitzki,tiki torches
+Stephen Curry,garden hoses
+Kevin Durant,watering cans
+James Harden,plant pots
+Russell Westbrook,window boxes
+Giannis Antetokounmpo,herb planters
+Lionel Messi,garden trowels
+Cristiano Ronaldo,pruning shears
+Neymar,gardening gloves
+Kylian Mbappé,kneeling pads
+Erling Haaland,wheelbarrows
+Pelé,leaf blowers
+Diego Maradona,hedge trimmers
+Zinedine Zidane,lawn mowers
+Ronaldinho,weed whackers
+Thierry Henry,garden gnomes
+Wayne Rooney,bird feeders
+David Beckham,bird baths
+Steven Gerrard,squirrel feeders
+Frank Lampard,butterfly houses
+John Terry,bee hotels
+Didier Drogba,rain gauges
+Samuel Eto'o,weather vanes
+Yaya Touré,sundials
+Mohamed Salah,wind chimes
+Sadio Mané,garden statuaries
+Riyad Mahrez,patio umbrellas
+Pierre-Emerick Aubameyang,outdoor rugs
+Karim Benzema,hammocks
+Robert Lewandowski,porch swings
+Thomas Müller,adirondack chairs
+Manuel Neuer,picnic tables
+Gianluigi Buffon,fire pits
+Iker Casillas,outdoor string lights
+Petr Čech,solar lanterns
+Edwin van der Sar,citronella torches
+Paolo Maldini,outdoor speakers
+Fabio Cannavaro,inflatable pools
+Carles Puyol,pool floats
+Sergio Ramos,beach umbrellas
+Gerard Piqué,beach towels
+Xavi,coolers
+Andrés Iniesta,folding chairs
+Luka Modrić,camping tents
+Toni Kroos,sleeping bags
+Kevin De Bruyne,flashlights
+Paul Pogba,binoculars
+N'Golo Kanté,compasses
+Virgil van Dijk,hiking boots
+Ruud Gullit,backpacks
+Marco van Basten,water bottles
+Dennis Bergkamp,first aid kits
+Patrick Kluivert,multi-tools
+Arjen Robben,camping stoves
+Robin van Persie,fishing rods
+Wesley Sneijder,tackle boxes
+Gareth Bale,kayaks
+Harry Kane,canoes
+Raheem Sterling,paddle boards
+Marcus Rashford,life jackets
+Jadon Sancho,wetsuits
+Phil Foden,snorkel gears
+Mason Mount,surfboards
+Trent Alexander-Arnold,boogie boards
+Bukayo Saka,beach balls
+Jude Bellingham,frisbees
+Erling Haaland,kites
+Kylian Mbappé,badminton sets
+Joao Felix,croquet sets
+Ansu Fati,bocce ball sets
+Pedri,horseshoes
+Gavi,cornhole games
+Alphonso Davies,giant jengas
+Jamal Musiala,outdoor chess sets
+Eduardo Camavinga,ping pong tables
+Jude Bellingham,foosball tables
+Florian Wirtz,pool tables
+Giovanni Reyna,dart boards
+Youssoufa Moukoko,putting greens
+Harvey Elliott,basketball hoops
+Curtis Jones,soccer goals
+Takefusa Kubo,volleyball nets
+Rodrygo,trampolines
+Vinícius Júnior,swing sets
+Gabriel Martinelli,slides
+Emile Smith Rowe,seesaws
+Dominic Calvert-Lewin,sandboxes
+Declan Rice,playhouses
+Mason Greenwood,treehouses
+Callum Hudson-Odoi,jungle gyms
+Reece James,monkey bars
+Aaron Wan-Bissaka,balance beams
+Ben Chilwell,climbing walls
+Dean Henderson,zip lines
+Fikayo Tomori,obstacle courses
+Tammy Abraham,skate ramps
