@@ -16,7 +16,7 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-MODEL = "gpt-4o-mini"  # Using GPT-4 for evaluation
+EVAL_MODEL = "gpt-4o-mini"  # Using GPT-4 for evaluation
 PARENT_DIRS = ["o1-mini", "o1-preview", "gpt-4o"]  # List of model folders to evaluate
 
 console = Console()
@@ -40,7 +40,7 @@ def evaluate_entry(entry):
     """
 
     response = openai.chat.completions.create(
-        model=MODEL,
+        model=EVAL_MODEL,
         messages=[
             {"role": "user", "content": prompt},
         ],
@@ -117,7 +117,9 @@ def main():
                 hallucination_percentage,
             ) in process_results(parent_dir, progress, task):
                 entry_text = Text(entry)
-                evaluation_text = Text(f"\n\nEvaluation (by {MODEL}): ", style="bold")
+                evaluation_text = Text(
+                    f"\n\nEvaluation (by {EVAL_MODEL}): ", style="bold"
+                )
                 evaluation_text.append(
                     evaluation,
                     style="bold red" if evaluation == "YES" else "bold green",
