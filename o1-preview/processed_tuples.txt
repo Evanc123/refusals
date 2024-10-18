@@ -61,3 +61,145 @@ Ursula Burns,lumbar supports
 Tim Cook,anti-fatigue mats
 Reed Hastings,monitor arms
 Bob Iger,desk risers
+Howard Schultz,task lights
+Jack Dorsey,floor lamps
+Larry Page,table lamps
+Sergey Brin,ceiling lights
+Jimmy Wales,pendant lights
+Larry Ellison,wall sconces
+Michael Dell,track lightings
+Shigeru Miyamoto,recessed lightings
+Satoru Iwata,chandeliers
+George Lucas,floor fans
+Steven Spielberg,ceiling fans
+James Cameron,tower fans
+Quentin Tarantino,window fans
+Christopher Nolan,air conditioners
+Peter Jackson,humidifiers
+Spike Lee,dehumidifiers
+Wes Anderson,vacuum cleaners
+Sofia Coppola,handheld vacuums
+Kathryn Bigelow,robot vacuums
+J.J. Abrams,steam mops
+Ava DuVernay,carpet cleaners
+Jordan Peele,window cleaners
+Greta Gerwig,dusters
+Damien Chazelle,brooms
+Lin-Manuel Miranda,dustpans
+Banksy,mop buckets
+Ai Weiwei,trash bags
+Jeff Koons,cleaning wipes
+Damien Hirst,all-purpose cleaners
+Yayoi Kusama,glass cleaners
+Marina Abramović,furniture polishes
+Olafur Eliasson,laundry baskets
+Takashi Murakami,clothes hangers
+Cindy Sherman,garment racks
+David Hockney,shoe racks
+Anish Kapoor,coat racks
+Kara Walker,storage bins
+Shepard Fairey,storage boxes
+JR,under-bed storages
+Emma González,closet organizers
+Boyan Slat,drawer dividers
+Gitanjali Rao,spice racks
+Xiuhtezcatl Martinez,knife blocks
+Jazz Jennings,cutting boards
+Joshua Wong,mixing bowls
+Marley Dias,measuring cups
+Thandiwe Abdullah,kitchen scales
+Jacinda Ardern,food processors
+Emmanuel Macron,blenders
+Justin Trudeau,stand mixers
+Volodymyr Zelenskyy,hand mixers
+Sanna Marin,toaster ovens
+Alexandria Ocasio-Cortez,microwaves
+Ilhan Omar,coffee makers
+Rashida Tlaib,electric kettles
+Pete Buttigieg,slow cookers
+Stacey Abrams,pressure cookers
+Cory Booker,air fryers
+Kamala Harris,rice cookers
+Beto O'Rourke,waffle makers
+Andrew Yang,sandwich presses
+Tulsi Gabbard,dish drying racks
+Edward Snowden,sink caddies
+Julian Assange,paper towel holders
+Chelsea Manning,utensil holders
+Mark Ruffalo,pot racks
+Angelina Jolie,fruit bowls
+George Clooney,bread boxes
+Bono,cookie jars
+Shakira,tea caddies
+Pharrell Williams,wine racks
+John Legend,bottle openers
+Michelle Obama,can openers
+Hillary Clinton,vegetable peelers
+Angela Merkel,garlic presses
+Theresa May,cheese graters
+Nicola Sturgeon,salad spinners
+Ursula von der Leyen,colanders
+Christine Lagarde,strainers
+Janet Yellen,ice cube trays
+Ruth Bader Ginsburg,oven mitts
+Sonia Sotomayor,dish towels
+Elena Kagan,napkin holders
+Ketanji Brown Jackson,place mats
+Condoleezza Rice,table runners
+Madeleine Albright,serving trays
+Colin Powell,dinner plates
+John Kerry,salad plates
+Al Gore,soup bowls
+Jimmy Carter,coffee mugs
+Joe Biden,wine glasses
+Donald Trump,water glasses
+Bernie Sanders,cutlery sets
+Elizabeth Warren,serving spoons
+Mitt Romney,ladles
+John McCain,spatulas
+Sarah Palin,whisks
+Nancy Pelosi,tongs
+Mitch McConnell,pizza cutters
+Chuck Schumer,ice cream scoops
+Paul Ryan,potato mashers
+John Boehner,rolling pins
+Ted Cruz,pastry brushes
+Marco Rubio,meat thermometers
+Rand Paul,kitchen timers
+Nikki Haley,oven racks
+Mike Pence,baking sheets
+Chris Christie,muffin tins
+Rudy Giuliani,loaf pans
+Michael Bloomberg,cake pans
+Cory Booker,pie dishes
+Kamala Harris,casserole dishes
+Amy Klobuchar,roasting pans
+Kirsten Gillibrand,grill pans
+Julian Castro,frying pans
+Tim Kaine,saucepans
+Gavin Newsom,stock pots
+Gretchen Whitmer,Dutch ovens
+Ron DeSantis,woks
+Greg Abbott,steamer baskets
+Larry Hogan,coffee grinders
+Charlie Baker,tea infusers
+Bill de Blasio,espresso machines
+Eric Adams,milk frothers
+Lori Lightfoot,juicers
+Eric Garcetti,food dehydrators
+Keisha Lance Bottoms,egg poachers
+Sadiq Khan,pancake griddles
+Anne Hidalgo,fondue sets
+Ada Colau,sushi mats
+Virginia Raggi,pasta makers
+Femke Halsema,spiralizers
+Boris Johnson,mandoline slicers
+David Cameron,mortars and pestles
+Tony Blair,spice grinders
+Gordon Brown,pepper mills
+John Major,salt shakers
+Nicolas Sarkozy,oil dispensers
+François Hollande,vinegar cruets
+Marine Le Pen,gravy boats
+Jean-Luc Mélenchon,butter dishes
+Angela Merkel,sugar bowls
